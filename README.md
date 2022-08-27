@@ -27,3 +27,4 @@ o	If they’re not, they get removed from the queue
 o	Next player in line will be asked to announce they’re still in line
 •	Both types of files can be used to start the game
 •	Many validations of input to tell Player if they have an invalid input
+Making comment here
