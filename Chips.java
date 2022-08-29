@@ -1,3 +1,4 @@
+//Chips object
 import java.util.Scanner;
 
 public class Chips {

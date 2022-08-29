@@ -2,7 +2,7 @@ import java.util.Random;
 import java.util.Scanner;
 
 // Class Wheel for CSCI 145 Project 4 Fall 17
-// Modified by: Armando Gutierrez & Stanley Vuong
+// Modified by: Stanley Vuong
 
 //************************************************************************
 //   Class Wheel represents a roulette wheel and its operations.  Its
