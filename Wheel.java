@@ -64,7 +64,7 @@ class Wheel
       			"| __ \\  / / \\ \\| | | || |/ _____|| |  | |  / _____|\n" + 
       			"| | \\ \\ \\ \\_/ /| \\_| || |\\ \\___  | |  | |  \\ \\____\n" + 
       			"|_|  \\_\\ \\___/  \\____||_| \\____/  \\_\\  \\_\\  \\____/");
-      	System.out.println("Project 4 - CSCI 145 - Armando Gutierrez & Stanley Vuong");
+      	System.out.println("Project 4 - CSCI 145 - Stanley Vuong");
       	System.out.println("----------------------------------------------------------------");
       	System.out.println("You can place a bet on black, red, or a number.");
       	System.out.println("A color bet is paid " + COLOR_PAYOFF + " the bet amount.");
